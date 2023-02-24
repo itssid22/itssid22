@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/itssid22/Ecom_app.git)
 
-- 🌱 I’m currently learning **Flutter , Rest Api , FireaBase**
+- 🌱 I’m currently learning **Flutter , Rest Api , FireBase**
 
 - 📫 How to reach me **sid22khot@gmail.com**
 
