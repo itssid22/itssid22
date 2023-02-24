@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Manish Khot</h1>
 <h3 align="center">A passionate flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media2.giphy.com/media/MYI6NK4JOGpOzOriEg/200w.webp)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 🔭 I’m currently working on [Ecommerce App](https://github.com/itssid22/Ecom_app.git)
